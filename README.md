@@ -1,4 +1,4 @@
-## Template for the Website of the The International Symposium on Software Reliability Engineering (ISSRE)
+## Website of The 34th International Symposium on Software Reliability Engineering (ISSRE 2023)
 
 Built with [Bootstrap_v5.1.3](https://getbootstrap.com/) and [W3.CSS](https://www.w3schools.com/w3css/default.asp).
 
