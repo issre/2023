@@ -27,3 +27,7 @@ main h3 {
     font-size: 90%;
     padding-top: 2em;
 }
+
+th, td {
+    border: 1px solid black;
+}
